@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-task-crud-firestore/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/simple-task-crud-firestore/static/js/main.700dbb56.chunk.js",
+    "main.js.map": "/simple-task-crud-firestore/static/js/main.700dbb56.chunk.js.map",
+    "runtime-main.js": "/simple-task-crud-firestore/static/js/runtime-main.fd00b560.js",
+    "runtime-main.js.map": "/simple-task-crud-firestore/static/js/runtime-main.fd00b560.js.map",
+    "static/js/2.ccb20d17.chunk.js": "/simple-task-crud-firestore/static/js/2.ccb20d17.chunk.js",
+    "static/js/2.ccb20d17.chunk.js.map": "/simple-task-crud-firestore/static/js/2.ccb20d17.chunk.js.map",
+    "index.html": "/simple-task-crud-firestore/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/simple-task-crud-firestore/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ccb20d17.chunk.js.LICENSE.txt": "/simple-task-crud-firestore/static/js/2.ccb20d17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd00b560.js",
+    "static/js/2.ccb20d17.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.700dbb56.chunk.js"
+  ]
+}
